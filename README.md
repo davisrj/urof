@@ -1,4 +1,4 @@
-![UROF - Universal Role-Playing Open Framework](/UROF-logo.png?raw=true "UROF")
+<img src="/UROF-logo.png" width=50% height=50%>
 
 UROF is a free, open, universal role-playing game framework. It is designed to offer a comprehensive base game system which can easily be modified and added to by creators to make their own games and systems. Additionally, UROF is released under CC-BY-4.0 which means that these creations can then be shared, even comercially; the only requirement is proper attribution to UROF.
 
