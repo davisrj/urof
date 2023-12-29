@@ -5,4 +5,4 @@ UROF is written in LaTeX such that it can be easily modified by creators. Whilst
 
 Examples of games which utilise UROF include:
  - Astraria https://davisrj.itch.io/astraria
- - To get your game added to this listt, get in touch!
+ - To get your game added to this list, get in touch!
